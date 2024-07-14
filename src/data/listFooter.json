@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Product",
+    "items": [
+      {
+        "name": "Overview"
+      },
+      {
+        "name": "Features"
+      },
+      {
+        "name": "Solutions",
+        "isNew": true
+      },
+      {
+        "name": "Tutorials"
+      },
+      {
+        "name": "Pricing"
+      },
+      {
+        "name": "Releases"
+      }
+    ]
+  },
+  {
+    "title": "Company",
+    "items": [
+      {
+        "name": "About us"
+      },
+      {
+        "name": "Careers"
+      },
+      {
+        "name": "Press"
+      },
+      {
+        "name": "News"
+      },
+      {
+        "name": "Media kit"
+      },
+      {
+        "name": "Contact"
+      }
+    ]
+  },
+  {
+    "title": "Resources",
+    "items": [
+      {
+        "name": "Blog"
+      },
+      {
+        "name": "Newsletter"
+      },
+      {
+        "name": "Events"
+      },
+      {
+        "name": "Help centre"
+      },
+      {
+        "name": "Tutorials"
+      },
+      {
+        "name": "Support"
+      }
+    ]
+  },
+  {
+    "title": "Social",
+    "items": [
+      {
+        "name": "Twitter"
+      },
+      {
+        "name": "LinkedIn"
+      },
+      {
+        "name": "Facebook"
+      },
+      {
+        "name": "GitHub"
+      },
+      {
+        "name": "AngelList"
+      },
+      {
+        "name": "Dribbble"
+      }
+    ]
+  },
+  {
+    "title": "Legal",
+    "items": [
+      {
+        "name": "Terms"
+      },
+      {
+        "name": "Privacy"
+      },
+      {
+        "name": "Cookies"
+      },
+      {
+        "name": "Licenses"
+      },
+      {
+        "name": "Settings"
+      },
+      {
+        "name": "Contact"
+      }
+    ]
+  }
+]
